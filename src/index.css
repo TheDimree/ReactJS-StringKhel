@@ -1,0 +1,5 @@
+.accordion-button::after {
+    filter:invert(1);
+}
+
+/* .accordion, .accordion-item, .accordion-button{background-color: inherit !important;color: #fff !important;border-color: currentColor;} */
